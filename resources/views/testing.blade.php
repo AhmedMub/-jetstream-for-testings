@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div>owner of the repo created this dev</div>
+    <div>oen the team made this </div>
 </body>
 
 </html>
